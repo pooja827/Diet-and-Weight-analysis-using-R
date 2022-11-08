@@ -21,11 +21,5 @@ People are confused to choose which diet type is more effective
 -	Dataset is analysed with various tools in R 
 
 **Methods used:**<br>
-Descriptive Statistics 
-One way anova
-Two way anova
-Kruskal Wallis rank sum test
-Non parametric Test
-Linear Regression and Scatter plot
-Markov Chain Monte Carlo
-Auto Regressionand Auto Correlation
+Descriptive Statistics ,One way anova,Two way anova,Kruskal Wallis rank sum test,Non parametric Test,Linear Regression and Scatter plot,Markov Chain Monte Carlo
+Auto Regression and Auto Correlation
